@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=500&lines=Bem+vindo,+para+a+minha+Github+page!;Sou+Vitor+Henrique.;Desenvolvedor+Web.;Sempre+em+busca+de+aprender+mais+tecnologias!)](https://git.io/typing-svg)
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=Vitor&color=brightgreen" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=VitorHSilver&color=brightgreen" alt="watching_count" />
  </p>
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mim
