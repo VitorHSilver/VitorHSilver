@@ -16,7 +16,8 @@
 
 - 🔭 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Concluido Análise e desenvolvimento de Sistemas na USCS.
-- 🌱 Aprendendo mais sobre JavaScript, PHP e NodeJS.
+- 🌱 Aprendendo mais sobre JavaScript, PHP e NodeJS .
+- 🖥️ Aprendendo num futuro Java e Python .
 
 <br>
 
