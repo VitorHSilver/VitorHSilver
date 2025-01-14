@@ -82,7 +82,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 <p align="center">
-<a href="https://github.com/vitorhsilver">
+<a href="https://github.com/VitorHSilver">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorHSilver&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb" />
 	 
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VitorHSilver&layout=compact&exclude_lang=java+r&theme=github_dark" />
