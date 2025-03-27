@@ -11,7 +11,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
  <p align="left">
   <img src="https://img.shields.io/badge/Focus-Web%20Development-dodgerblue" />
-  <img src="https://img.shields.io/badge/Languages-Portugues+English-dodgergreen" />
+  <img src="https://img.shields.io/badge/Languages-Portuguese+English-dodgergreen" />
 </p>
 
 - 🔭 Explorando novas tecnologias e desenvolvendo soluções de software.
