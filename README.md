@@ -1,6 +1,6 @@
 <h2 align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=500&lines=Bem+vindo,+para+a+minha+Github+page!;Sou+Vitor+Henrique.;Desenvolvedor+Web.;Sempre+em+busca+de+aprender+mais+tecnologias!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=800&lines=Bem+vindo,+para+a+minha+Github+page!;Sou+Vitor+Henrique.;Desenvolvedor+Web.;Sempre+em+busca+de+aprender+mais+tecnologias!)](https://git.io/typing-svg)
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=VitorHSilver&color=brightgreen" alt="watching_count" />
